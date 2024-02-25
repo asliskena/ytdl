@@ -5,7 +5,7 @@ Installation
 ```
 $ sudo apt update
 $ sudo apt install ffmpeg
-$ git clone https://github.com/prhnahmd/ytdl/
+$ git clone https://github.com/asliskena/ytdl/
 $ pip install -r requirements.txt
 ```
 
